@@ -10,3 +10,7 @@ Scope of the Project
 •	Application should have a button to clear all widgets and texts in one tap. 
 •	Application should be able to capture the screen(screenshot), whenever required
 
+
+
+# Android-ActionItemBadge [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mikepenz/actionitembadge/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.mikepenz/actionitembadge) [![Android Arsenal](http://img.shields.io/badge/Android%20Arsenal-Android--ActionItemBadge-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/755)
+
